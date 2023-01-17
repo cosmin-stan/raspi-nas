@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/36852270/212928381-89f0c11c-458c-4063-877a-75f818223014.png)
-                                                                                                                                                                    
+:strawberry:OS: Raspberry Pi OS Lite (64-bit)                                                                                                                                                                 
 This is a Raspberry Pi NAS project which includes the following docker containers:                                                                                                                                                                                                  
 -:boom:Openmediavault - NAS software 
 
